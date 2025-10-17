@@ -26,18 +26,21 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **To measure IL**
 
-
-**To measure RTh or RN**
-
+![IMG_20251009_042659_1](https://github.com/user-attachments/assets/3efbc13d-5315-4096-bb2a-45db786fa9cc)
 
 
-**To measure IN or Isc**
+**To measure RN**
 
- 
-**Thevenin’s equivalent circuit**
+![WhatsApp Image 2025-10-17 at 09 43 00_32feca0a](https://github.com/user-attachments/assets/a6d47dfe-0691-445a-a735-9558f0eb0bcd)
 
+
+**To measure IN**
+
+![WhatsApp Image 2025-10-17 at 09 43 00_6860f757](https://github.com/user-attachments/assets/666fe780-d2dd-4083-8b25-f1dacf36d459)
 
 **Norton’s equivalent circuit**
+
+![WhatsApp Image 2025-10-17 at 09 42 59_05213de3](https://github.com/user-attachments/assets/9114bcc0-1e03-4a8e-9318-71928cff1244)
 
 
 **PROCEDURE:**
@@ -71,35 +74,27 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 12.	Theoretically verify the Norton’s theorem.
 
 **TABULAR COLUMN: 1**
-To measure I L
 
-Vi (volts)	IL (amps)
+![WhatsApp Image 2025-10-17 at 09 45 33_2b7a330e](https://github.com/user-attachments/assets/575b9bfd-a9ff-4c9e-a651-4a5d231ee8e8)
 
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
-
-
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
 	
 **MODEL CALCULATION:**
 
-Practical value of IL (from tabulation 1) =2.3mA
+![WhatsApp Image 2025-10-17 at 09 46 43_d50de016](https://github.com/user-attachments/assets/edf8ab51-da26-4fe4-8632-a00c9b549ef3)
+
 
 **Verification of Norton’s theorem**
 
-IL = IN * RN / ( RN+ RL ) = 2.43mA
-
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
 
+![IMG_20251009_042738_1](https://github.com/user-attachments/assets/fe9279f5-5f82-4c07-919a-162990aa3771)
+
+**MARK SPLIT-UP:**
+
+![IMG_20251009_062820](https://github.com/user-attachments/assets/b385cf9c-1cfc-4e90-bb6f-21b362094d8a)
 
 **RESULT:**
+Thus, The Norton's Theorem was verified practically and theoretically.
+
 
 Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
