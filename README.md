@@ -94,4 +94,5 @@ Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
 ![IMG_20251009_062820](https://github.com/user-attachments/assets/b385cf9c-1cfc-4e90-bb6f-21b362094d8a)
 
 **RESULT:**
-Thus, The Norton's Theorem was verified practically and theoretically.
+
+     Thus, The Norton's Theorem was verified practically and theoretically.
